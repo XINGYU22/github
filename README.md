@@ -1,4 +1,5 @@
-#ChatGPT下载攻略：安卓、苹果及桌面版安装步骤详解
+ChatGPT下载攻略：安卓、苹果及桌面版安装步骤详解
+
 ChatGPT 是 OpenAI 公司开发的一款人工智能聊天机器人程序，而 ChatGPT APP 是其移动端的应用程序，目前分别上架于苹果外区 App Store 和Google Play（谷歌应用商店）。
 
 ![image](https://github.com/user-attachments/assets/c3ea6bd8-1178-461f-9cd0-83ae2559feaa)
